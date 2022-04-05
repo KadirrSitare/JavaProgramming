@@ -7,7 +7,7 @@ public class CircleObjects {
         Circle c1 = new Circle(5);
         System.out.println(c1);
 
-        c1.setRadius(10);
+        c1.setRadius(15);
         System.out.println(c1.getRadius());
 
     }
