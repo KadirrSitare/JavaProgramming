@@ -64,7 +64,7 @@ public class Employee {
     }
 }
 /*
-Create an Employee Class:
+Create an Employee Car:
 			private variables:
 				name, gender, age, salary
 

@@ -34,7 +34,7 @@ public class Employee {
     }
 }
 /*
-Employee Class:
+Employee Car:
 
 		Attributes:
 			name, id, gender, jobTitle, salary, isFullTime(boolean)

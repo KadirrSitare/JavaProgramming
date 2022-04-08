@@ -39,7 +39,7 @@ public class Car {
     }
 }
 /*
-Car Class:
+Car Car:
 
 	Attributes:
 		brand, model, color, year, price

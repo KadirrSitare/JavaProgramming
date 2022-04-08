@@ -46,7 +46,7 @@ public class Student {
 }
 
 /*
-Student Class:
+Student Car:
 
 	Attributes:
 		name, gender, age, studentID
