@@ -15,7 +15,17 @@ public class ShapeObjects {
         System.out.println(circle1);
 
         circle1.setRadius(10);
-        System.out.println(circle1.getRadius());
+        System.out.println(circle1);
+
+        Rectangle rectangle1 = new Rectangle(5,10);
+
+        System.out.println(rectangle1);
+        rectangle1.setWidth(15);
+        System.out.println( rectangle1+ " perimeter = " + rectangle1.perimeter());
+        System.out.println(square1.getName());
+        System.out.println(circle1.getName());
+
+
 
 
 
