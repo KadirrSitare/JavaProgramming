@@ -26,10 +26,5 @@ public class ShapeObjects {
         System.out.println(circle1.getName());
 
 
-
-
-
-
-
     }
 }
